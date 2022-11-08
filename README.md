@@ -7,11 +7,12 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone. https://github.com/noorkhokhar99/Yolov7-Object-Counting.git
+git clone. https://github.com/noorkhokhar99/Removing-Black-Background-and-Make-Transparent-using-Python-OpenCV.git
+
 ```
 - Goto the cloned folder.
 ```
-cd Yolov7-Object-Counting
+cd Removing-Black-Background-and-Make-Transparent-using-Python-OpenCV
 
 ```
 - Upgrade pip with mentioned command below.
@@ -24,11 +25,9 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`python detect_and_count.py --weights yolov7.pt --conf 0.1 --source 2.jpeg`
+`python OpenCV_blac.py`
 
- - Run for webcam
  
-`python detect_and_count.py --weights yolov7.pt --conf 0.1 --source 0`
 
 
 <p align="center">
