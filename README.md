@@ -1,7 +1,6 @@
 # Removing-Black-Background-and-Make-Transparent-using-Python-OpenCV
 
 
-# Yolov7-Object-Counting
 
 
 ### Steps to run Code
